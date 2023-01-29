@@ -1,0 +1,1 @@
+Adding the text into the file, This text is present in the 'a.txt' file.
